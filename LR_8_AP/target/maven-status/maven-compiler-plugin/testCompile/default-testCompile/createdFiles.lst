@@ -1,0 +1,12 @@
+risks\DisasterTest.class
+user\DataOfTheInsuredTest.class
+risks\FireExplosionTest.class
+risks\CompleteDeathOfTheCarTest.class
+user\UserTest.class
+commands\MenuTest.class
+risks\AnimalAttackTest.class
+risks\RoadAccidentTest.class
+risks\CarTheftTest.class
+risks\MilitaryRisksTest.class
+risks\FallingObjectsTest.class
+risks\IllegalActionsOfThirdPartiesTest.class
