@@ -38,7 +38,7 @@ public class SendEmail {
             BodyPart messageBodyPart = new MimeBodyPart();
             messageBodyPart.setText("Вітаю , надсилаю Вам приклад лог файлу");
             MimeBodyPart attachmentPart = new MimeBodyPart();
-            attachmentPart.attachFile(new File("D:\\InteliJ IDEA Java\\LR_7_AP\\src\\main\\resources\\Errors.txt"));
+            attachmentPart.attachFile(new File("D:\\InteliJ IDEA Java\\LR_8_AP\\src\\main\\resources\\Errors.txt"));
             Multipart multipart = new MimeMultipart();
             multipart.addBodyPart(messageBodyPart);
             multipart.addBodyPart(attachmentPart);
