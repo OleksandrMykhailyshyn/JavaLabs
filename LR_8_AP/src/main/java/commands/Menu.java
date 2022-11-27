@@ -46,7 +46,7 @@ public class Menu {
 
     static {
         try {
-            writer = new FileWriter("D:\\InteliJ IDEA Java\\LR_7_AP\\src\\main\\resources\\Errors.txt", false);
+            writer = new FileWriter("D:\\InteliJ IDEA Java\\LR_8_AP\\src\\main\\resources\\Errors.txt", false);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
